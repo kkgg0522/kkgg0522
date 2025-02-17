@@ -24,7 +24,7 @@ Redis를 이용해 데이터 캐싱과 세션 관리를 최적화하였습니다
 
 - 📩 **Email**: [kkgg0522@naver.com](mailto:kkgg0522@naver.com)
 - 📝 **Blog**: [Tistory](https://tan-sog.tistory.com/)
-- 📂 **Resume**: [이력서 보기](./docs/resume.pdf)  
+- 📂 **Resume**: [이력서 보기](./팀과 함께 성장하는 신입 개발자 이력서.pdf)
 
 ---
 
@@ -96,7 +96,7 @@ Redis를 이용해 데이터 캐싱과 세션 관리를 최적화하였습니다
 - **Email**: [kkgg0522@naver.com](mailto:kkgg0522@naver.com)
 - **Blog**: [Tistory](https://tan-sog.tistory.com/)
 - **GitHub**: [깃허브 프로필](https://github.com/kkgg0522)
-- **Resume**: [이력서 보기](./docs/resume.pdf)
+- **Resume**: [이력서 보기](./팀과 함께 성장하는 신입 개발자 이력서.pdf)
   - (리포지토리에 실제 PDF를 업로드하신 뒤 상대경로로 연결하세요)
 
 ---
