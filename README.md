@@ -1,9 +1,3 @@
-<!--
-  README.md 예시 with External Libraries & Custom About Me
-  * 이력서는 ./팀과 함께 성장하는 신입 개발자 이력서.pdf 로 업로드되었음을 가정합니다.
-  * 각 라이브러리는 실제 사용 내역에 맞춰 수정하세요.
--->
-
 <h1 align="center">김원형 | Backend Developer</h1>
 
 <p align="center">
@@ -33,7 +27,7 @@
 - **이메일**: [kkgg0522@naver.com](mailto:kkgg0522@naver.com)  
 - **블로그**: [Tistory](https://tan-sog.tistory.com/)  
 - **GitHub**: [github.com/kkgg0522](https://github.com/kkgg0522)  
-- **이력서**: [팀과 함께 성장하는 신입 개발자 이력서.pdf](./팀과 함께 성장하는 신입 개발자 이력서.pdf)
+- **이력서**: [팀과 함께 성장하는 신입 개발자](https://github.com/kkgg0522/kkgg0522/blob/b539d559e9c8c49ce1e8d70e4df3164ad1bac8c2/docs/%20resume/%E1%84%90%E1%85%B5%E1%86%B7%E1%84%80%E1%85%AA%20%E1%84%92%E1%85%A1%E1%86%B7%E1%84%81%E1%85%A6%20%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B5%E1%86%B8%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%20%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5.pdf)
 
 ---
 
@@ -105,7 +99,7 @@
 - **Email**: [kkgg0522@naver.com](mailto:kkgg0522@naver.com)  
 - **Blog**: [Tistory](https://tan-sog.tistory.com/)  
 - **GitHub**: [github.com/kkgg0522](https://github.com/kkgg0522)  
-- **Resume**: [팀과 함께 성장하는 신입 개발자 이력서.pdf](./팀과 함께 성장하는 신입 개발자 이력서.pdf)
+- **Resume**: [팀과 함께 성장하는 신입 개발자](https://github.com/kkgg0522/kkgg0522/blob/b539d559e9c8c49ce1e8d70e4df3164ad1bac8c2/docs/%20resume/%E1%84%90%E1%85%B5%E1%86%B7%E1%84%80%E1%85%AA%20%E1%84%92%E1%85%A1%E1%86%B7%E1%84%81%E1%85%A6%20%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B5%E1%86%B8%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%20%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5.pdf)
 
 <p align="center">
   <strong>함께 성장하며 더 나은 서비스를 만들 수 있도록 언제든 연락 주세요!</strong>
